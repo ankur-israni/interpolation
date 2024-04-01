@@ -25,6 +25,7 @@ export class AppComponent {
   sports = ['Gullidanda', 'Badminton', 'Ping Pong', 'Snooker'];
   mySport = this.sports[1];
 
+
   constructor() {
     this.capital = 'New Delhi';
     this.player = 'M.S. Dhoni';
